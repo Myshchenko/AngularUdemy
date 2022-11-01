@@ -3,7 +3,7 @@
 namespace API.Entities
 {
     [Table("Photos")]
-    public class Photo
+    public class PhotoDto
     {
         public int Id { get; set; }
 
