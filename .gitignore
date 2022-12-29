@@ -355,3 +355,5 @@ bin
 obj
 *.db
 wwwroot
+
+appsettings.json
